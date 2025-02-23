@@ -62,7 +62,7 @@ Youssef Abdelrazk"
              Frontend Developer based in Egypt.
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
